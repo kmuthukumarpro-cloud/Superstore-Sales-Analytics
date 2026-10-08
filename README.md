@@ -341,27 +341,19 @@ Used for:
 - Portfolio presentation
 
 ---
-
-# 10. Project Structure
+```
+## 10. Project Structure
 
 ```text
 Superstore-Sales-Analytics/
 │
 ├── README.md
+├── LICENSE
+├── dashboard.image.jpg
 │
-├── images/
-│   └── dashboard.png
-│
-├── sql/
-│   ├── analysis.sql
-│   └── view.sql
-│
-├── powerbi/
-│   └── Superstore_Sales_Analytics.pbix
-│
-└── documentation/
-    └── DAX_Measures.md
-```
+└── sql/
+    ├── analysis.sql
+    └── view.sql
 
 ---
 
