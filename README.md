@@ -351,6 +351,8 @@ Superstore-Sales-Analytics/
 └── sql/
     ├── analysis.sql
     └── view.sql
+```
+
 ---
 
 # 11. End-to-End Approach
