@@ -2,7 +2,7 @@
 
 ## End-to-End Data Analytics Project | SQL + Power BI + DAX
 
-![Superstore Sales Analytics Dashboard](images/dashboard.png)
+![Superstore Sales Analytics Dashboard](dashboard.image.jpg)
 
 ---
 
