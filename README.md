@@ -341,18 +341,16 @@ Used for:
 - Portfolio presentation
 
 ---
-## 10. Project Structure
+# 10. Project Structure
 
+```text
 Superstore-Sales-Analytics/
-│
 ├── README.md
 ├── LICENSE
 ├── dashboard.image.jpg
-│
 └── sql/
     ├── analysis.sql
     └── view.sql
-
 ---
 
 # 11. End-to-End Approach
