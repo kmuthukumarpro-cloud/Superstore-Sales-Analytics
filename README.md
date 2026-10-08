@@ -343,7 +343,6 @@ Used for:
 ---
 ## 10. Project Structure
 
-```text
 Superstore-Sales-Analytics/
 │
 ├── README.md
