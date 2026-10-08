@@ -341,7 +341,6 @@ Used for:
 - Portfolio presentation
 
 ---
-```
 ## 10. Project Structure
 
 ```text
